@@ -22,7 +22,6 @@ float calculateDuration(string dep, string arr)
     int depTotalMins = dh * 60 + dm;
     int arrTotalMins = ah * 60 + am;
 
-    // If arrival is after midnight
     if (arrTotalMins < depTotalMins)
     {
         arrTotalMins += 24 * 60;
