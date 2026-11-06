@@ -1,0 +1,8 @@
+101,lhr,isl,pia,3:00,5:00,2,9000,delayed
+103,china,turkey,emarites,06:00,23:00,17,9000,Early
+124,pakistan,dubai,pia,08:00,12:00,4,15000,Scheduled
+145,london,paris,pia,09:00,11:00,2,12000,Delayed
+196,karachi,lahore,fly,07:00,08:30,1.5,18000,Cancelled
+207,istanbul,beijing,flyjinnah,05:00,15:00,10,35000,Scheduled
+102,dubai,london,emarites,14:00,22:00,8,45000,Early
+104,lahore,karachi,qatarair,10:00,11:30,1.5,16000,Scheduled
